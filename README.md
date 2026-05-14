@@ -1,10 +1,10 @@
 # 🚖Rapido-Business-Intelligence-System
  
-#📊 SQL-Based Ride Booking Intelligence System
+📊 SQL-Based Ride Booking Intelligence System
 
 🚀 Developed a real-world ride-booking analytics project inspired by Rapido using PostgreSQL and advanced SQL techniques on 100K+ simulated records.
 
-#🧠 Performed deep business analysis using:
+🧠 Performed deep business analysis using:
 
 📈 Window Functions
 🔄 CTEs
